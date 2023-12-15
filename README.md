@@ -5,6 +5,7 @@ Dataset Link:
 https://docs.google.com/spreadsheets/d/17zaiJnUOnLdHROWLZYcVlpMJ08wh-Bou/edit#gid=115883679
 
 Output:
+
 ![dashboard](https://github.com/VanshC12/HR-Data-Dashboard/assets/95523213/e15613fc-3980-4bee-a504-66c5c690965f)
 
 
